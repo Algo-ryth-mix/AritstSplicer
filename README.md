@@ -8,7 +8,7 @@ usage:
 
 in code:
 ```c++
-	#include "artist_splicer.h"
+    #include "artist_splicer.h"
     
     [...]
     
